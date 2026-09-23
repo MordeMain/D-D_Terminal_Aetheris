@@ -1,0 +1,496 @@
+====================================================================
+  COMPENDIO  ·  CODIGOS DE BUSQUEDA
+  Neo-Veridia 2186  ·  AETHERIS DYNAMICS
+====================================================================
+
+COMO SE USA
+  Compendio > toca la barra de busqueda > escribe el CODIGO > OK.
+  No distingue mayusculas, acentos ni espacios. Los ALIAS abren la
+  misma entrada. Las entradas nuevas salen marcadas con "!" hasta
+  que se abren.
+
+--------------------------------------------------------------------
+  MISIONES   ->  MISIONES   (50)
+--------------------------------------------------------------------
+  V3R5R4E ........ M01 — EL TRABAJO DEL ALMACÉN
+  F5M7J9F ........ M02 — ENTREGA EN BAHÍA-HIERRO
+  A2W7Q6C ........ M03 — RASTREANDO LA SEÑAL
+  V2X4N3P ........ M04 — LIMPIANDO LAS CALLES
+  L2Q4L4N ........ M05 — CONTROL DE DISTURBIOS
+  Y3P7Q5K ........ M06 — CORTANDO LA SEÑAL
+  T5Q4L7R ........ M07 — PROTECCIÓN DE ALTO NIVEL
+  F9V4T3R ........ M08 — LA PURGA DEL SUB-NIVEL
+  Q3C4H7F ........ M09 — AUDITORÍA CORPORATIVA
+  X6E4Y2R ........ M10 — REQUISANDO LA VANGUARD
+  P7J7L7M ........ M11 — LIBERANDO LA VOZ
+  P9F4N9A ........ M12 — SECUESTRANDO LA SEÑAL
+  Y3A7C7F ........ M13 — INTERCEPTAR EL CONVOY
+  X3J6K6V ........ M14 — PROTEGIENDO EL SECRETO
+  L3M6T7L ........ M15 — APAGÓN
+  R9L4N9K ........ M16 — EL GOLPE CORPORATIVO
+  F5L3A3K ........ M17 — VUELO A LA LIBERTAD
+  Y2C6R6X ........ M18 — COBRO DE DEUDAS
+  Q6Y3M7K ........ M19 — GUERRA DE TERRITORIO
+  V5C7L9L ........ M20 — ROBANDO LA LISTA NEGRA
+  N6F4A9M ........ M21 — GOLPE AL TRATO DE ARMAS
+  Y2M6X4A ........ M22 — EXTRACCIÓN BIOLÓGICA
+  C9F3C9J ........ M23 — LA BÓVEDA DE LA MÁQUINA
+  T7V2X4X ........ M24 — GRAN ROBO ORBITAL
+  J3Y7C3K ........ M25 — LA FRACTURA DEL SECTOR
+  A5C2K2R ........ M26 — MOTÍN EN EL GULAG
+  Q3W2R3V ........ M27 — ASALTO A LA BALLENA DE HIERRO
+  N7X4D5C ........ M28 — REFUGIO EN EL YUNQUE
+  J9E4A5P ........ M29 — RECUPERAR LA ÉGIDA
+  T6K3X4E ........ M30 — ARMAR LA FLOTA
+  Q7Y4P3K ........ M31 — LA SEÑAL DEL CONJUNTO FANTASMA
+  J3X3V4L ........ M32 — MOTÍN EN ÉGIDA PRIME
+  H2E9H5Y ........ M33 — LA TRAMPA DEL ALMIRANTE
+  K5F5Y7W ........ M34 — ASEGURAR EL BUQUE INSIGNIA
+  H2H3J4A ........ M35 — DESPERTAR DE LA CATEDRAL
+  E9Y5R4K ........ M36 — MOTORES DE CHATARRA
+  H6T3K4N ........ M37 — OLEADA TRANSHUMANISTA
+  M2D3A3V ........ M38 — GOLPE EN CHARON-9
+  C3C3T7J ........ M39 — EJECUTAR EL CHANTAJE
+  T3L7R7K ........ M40 — INFILTRAR AETHERIS
+  H5X2P4P ........ M41 — EL PACTO DE LA COALICIÓN
+  H4W5X3T ........ M42 — INTERCEPTACIÓN EN EL ESPACIO PROFUNDO
+  Q4K7C4C ........ M43 — LA BATALLA DE LA PUERTA 3
+  M3H3A5Y ........ M44 — DESCENSO ATMOSFÉRICO
+  Q3Q4F2M ........ M45 — GUERRILLA DEL SUMIDERO
+  J4T5R7P ........ M46 — BRECHA EN EL PERÍMETRO
+  V6R3L6D ........ M47 — LA TORRE ARCOLÓGICA
+  W5Q9T5A ........ M48 — ENFRENTAR A THORNE
+  H2D2Y5Y ........ M49 — LA BÓVEDA EJECUTIVA
+  D3A5M7V ........ M50 — ASCENSIÓN
+
+  Las misiones SOLO se registran con su codigo (M01, M02... no
+  funcionan). Tocar el objetivo en Inicio abre el canal con el
+  contacto. Tras SI/NO aparece COMPLETADO: al tocarlo se cierra el
+  canal y queda SIN OBJETIVO ASIGNADO hasta el siguiente codigo.
+  El canal ya visto se muestra entero, sin reescribirse.
+
+--------------------------------------------------------------------
+  PERSONAS   ->  PERSONAS   (61)
+--------------------------------------------------------------------
+  VANCE .......... ALTO DIRECTOR MARCUS VANCE
+                   alias: MARCUS, DIRECTOR
+  KAELEN ......... KAELEN THORNE
+                   alias: THORNE
+  VEX ............ VESPERA "VEX" CHEN
+                   alias: CHEN, VESPERA
+  ARIS ........... DR. ARIS THORNE
+  ARCHON ......... PROFETA ARCHON-09
+  TANNER ......... JAX "OJO MUERTO" TANNER
+  LYRA ........... LYRA VANCE (ALIAS: CHISPA)
+                   alias: SPARK, CHISPA
+  CROSS .......... TENIENTE RODERICK CROSS
+                   alias: RODERICK
+  SAFFRON ........ SAFFRON "SAFF" KROSS
+                   alias: KROSS
+  SILAS .......... SILAS DRAKE
+                   alias: DRAKE
+  CIFRA .......... CIPHER-4
+                   alias: CIPHER
+  VOLKOV ......... BARÓN NIKOLAI VOLKOV
+                   alias: NIKOLAI, BARON
+  YUMI ........... YUMI NAGASHIMA
+                   alias: NAGASHIMA
+  REED ........... ALTA MINISTRA EVELYN REED
+                   alias: EVELYN
+  KELL ........... CAPITÁN TAVOR KELL
+                   alias: TAVOR
+  NYA ............ NYA "SOLDADURA" VANE
+                   alias: VANE
+  DEACON ......... HERMANO DEACON
+  ZORA ........... ZORA MOON
+                   alias: MOON
+  JAXSON ......... JAXSON "GATOR" VANCE
+                   alias: GATOR
+  HELENA ......... COMANDANTE HELENA CROSS
+  TREVOR ......... T3-R3X ("TREVOR")
+  STERLING ....... PROFESOR ELIAS STERLING
+                   alias: ELIAS
+  MAYA ........... MAYA LIN
+                   alias: LIN
+  GRIM ........... JEFE "CABEZA DE HIERRO" GRIM
+                   alias: IRONHEAD, CABEZADEHIERRO
+  DUPOND ......... VERONIQUE DUPOND
+                   alias: VERONIQUE
+  OCONNOR ........ DOC "PUNTADA" O'CONNOR
+                   alias: DOC, STITCH, PUNTADA
+  ORLA ........... ORLA "FANTASMA" VANE
+                   alias: FANTASMA, GHOST
+  VALERIUS ....... MAYOR GENERAL VALERIUS
+  CAELUM ......... CAELUM VANCE
+  SELENE ......... SELENE VANCE
+  BRAM ........... BRAM "MAZO" HOLLOWAY
+                   alias: SLEDGE, MAZO
+  ECO7 ........... ECHO-7
+                   alias: ECHO7
+  FINCH .......... KAIRO "FINCH" FINCHLEY
+                   alias: KAIRO
+  XI ............. MADAME XI
+                   alias: MADAMEXI
+  MILLER ......... SARGENTO MILLER
+                   alias: SARGENTO
+  HESPERIA ....... DRA. HESPERIA VANE
+                   alias: HESPERIAVANE
+  CASSIAN ........ CASSIAN REX
+                   alias: REX
+  NYX ............ NYX "ESTELA" VANE
+                   alias: SLIPSTREAM, ESTELA
+  ARCHON10 ....... ARCHON-10
+  ZHAO ........... REPRESENTANTE ZHAO
+  HOLLOWAY ....... JAX "ÓXIDO" HOLLOWAY
+  VOSS ........... ESPECIALISTA KIRA VOSS
+                   alias: KIRA
+  TALON .......... TALON "EL ZURCIDOR"
+                   alias: ZURCIDOR, STITCHER
+  BLAKE .......... DR. ORION BLAKE
+                   alias: ORION
+  ANYA ........... ANYA KROSS
+  BRUNO .......... CAPITÁN BRUNO VANCE
+  MALAKOR ........ BUSCA-VACÍO MALAKOR
+  TIX ............ TIX-01
+  CORVUS ......... CORVUS
+  IRIS ........... IRIS STERLING
+  TOBY ........... TOBIAS "GIZMO" FINCH
+                   alias: GIZMO, FINCHGIZMO, TOBIAS
+  COPPER ......... "COPPER" (UNIDAD C0P)
+                   alias: PERRO
+  SKARSGARD ...... ALCAIDE TORVALD SKARSGARD
+                   alias: TORVALD
+  ZEROCOOL ....... "ZERO-COOL" (NICO VANCE)
+                   alias: NICO, ZERO
+  BRICK .......... MARCUS "BRICK" JACKSON
+                   alias: JACKSON
+  LINUS .......... DR. LINUS VANCE
+                   alias: LINUSVANCE
+  KORA ........... CAPITANA KORA VALE
+                   alias: VALE
+  MERCER ......... GENERAL ANTON MERCER
+                   alias: ANTON
+  CROFT .......... TENIENTE LAURA CROFT
+                   alias: VALKYRIA, VALKYRIE
+  MAELSTROM ...... SUPERVISOR JEFE MAELSTROM
+  JULIAN ......... JULIAN VANCE
+
+--------------------------------------------------------------------
+  LUGARES   ->  LUGARES   (26)
+--------------------------------------------------------------------
+  NEOVERIDIA ..... NEO-VERIDIA
+  CIUDADELA ...... AGUJA CIUDADELA
+                   alias: CITADEL, AGUJA
+  AETHERIS ....... ZONA CORPORATIVA AETHERIS
+  BAHIAHIERRO .... MUELLES BAHÍA-HIERRO
+                   alias: IRONBAY, MUELLES
+  ALMACEN88 ...... ALMACÉN 88-B
+                   alias: WAREHOUSE, ALMACEN
+  SUMIDERO ....... EL BAJO-SUMIDERO
+                   alias: LOWSUMP, BAJOSUMIDERO
+  YERMOS ......... LOS YERMOS DE ÓXIDO
+                   alias: RUSTWASTES, OXIDO
+  CHARON ......... ESTACIÓN AMARRE CHARON-9
+                   alias: CHARON9
+  CATEDRAL ....... LA CATEDRAL DE ÓXIDO
+                   alias: RUSTCATHEDRAL
+  LOTO ........... REFUGIO LOTO DORADO
+                   alias: GOLDENLOTUS, LOTODORADO
+  SECTOR1 ........ SECTOR 1 — ALTURAS CIUDADELA
+  SECTOR2 ........ SECTOR 2 — PLAZA AETHERIS
+  SECTOR3 ........ SECTOR 3 — MUELLES Y FRANJA NEÓN
+  SECTOR4 ........ SECTOR 4 — BAJO-SUMIDERO
+  SECTOR5 ........ SECTOR 5 — EXPANSIÓN DE ÓXIDO
+  TERCIOPELO ..... LA SALA DE TERCIOPELO
+                   alias: VELVET
+  IRONWORKS ...... CHATARRERÍA IRONWORKS
+  RAILHEAD ....... CASA DE EMPEÑOS RAILHEAD
+  CLINICA ........ CLÍNICA SUBTERRÁNEA DE O'CONNOR
+  NODOALFA ....... NODO-REJILLA ALFA
+                   alias: GRIDNODE
+  PUERTA3 ........ PUERTA DE ATRAQUE ORBITAL 3
+                   alias: GATE3
+  GULAG .......... TITÁN-GULAG 9
+                   alias: TITAN9
+  ETERNUEVE ...... ESTACIÓN ÉTER-NUEVE
+                   alias: AETHERNINE
+  YUNQUE ......... EL YUNQUE
+                   alias: ANVIL, ANVILHAVEN
+  EGIDAPRIME ..... RED DE DEFENSA ÉGIDA PRIME
+  PERNO .......... EL PERNO OXIDADO
+                   alias: RUSTYBOLT
+
+--------------------------------------------------------------------
+  OBJETOS   ->  OBJETOS   (7)
+--------------------------------------------------------------------
+  EGIDA .......... EL NÚCLEO ÉGIDA
+                   alias: AEGIS, NUCLEO
+  LAZARO ......... IMPULSOR PROYECTO LÁZARO
+                   alias: LAZARUS
+  NODOECO ........ EL NODO ECO
+                   alias: ECHONODE
+  REDNULA ........ LA RED NULA
+                   alias: NULLLATTICE
+  HELIOS ......... EL CIFRADO DE HELIOS
+                   alias: CIPHEROFHELIOS
+  JANO_LLAVE ..... LA LLAVE MAESTRA JANO
+                   alias: LLAVEJANO, JANUSKEY
+  VANGUARD ....... SC-VANGUARD-09
+                   alias: CORBETA, NAVE
+
+--------------------------------------------------------------------
+  RAZAS   ->  RAZAS   (6)
+--------------------------------------------------------------------
+  HUMANO ......... HUMANO
+  AUMENTADO ...... HUMANO AUMENTADO
+  SINTETICO ...... HUMANOIDE SINTÉTICO
+  IA ............. INTELIGENCIA ARTIFICIAL
+  CLON ........... HUMANO CLONADO
+  KRYNNIANO ...... EXO-VARIANTE KRYNNIANO
+
+--------------------------------------------------------------------
+  RELIGIONES   ->  RELIGION   (2)
+--------------------------------------------------------------------
+  DIOSMAQUINA .... ASAMBLEA DEL DIOS MÁQUINA
+                   alias: MACHINEGOD, ASAMBLEA
+  CISMA .......... EL CISMA DE ARCHON-10
+
+--------------------------------------------------------------------
+  RUMORES   ->  RUMORES   (6)
+--------------------------------------------------------------------
+  TRU088 ......... EL HIJO DEL DIRECTOR
+  FLS012 ......... EL PULSO DEL SINDICATO
+  BOLETIN ........ BOLETÍN SOL-APEX 8840
+  ECO1 ........... RASTRO ECO 01/03
+  ECO2 ........... RASTRO ECO 02/03
+  ECO3 ........... RASTRO ECO 03/03
+
+--------------------------------------------------------------------
+  TECNOLOGIAS   ->  TECNOLOGIA   (6)
+--------------------------------------------------------------------
+  JANO ........... PROYECTO JANO
+                   alias: JANUS
+  ESPEJO ......... OPERACIÓN ESPEJO FALSO
+                   alias: FALSEMIRROR, ESPEJOFALSO
+  ANOCHECER ...... PROTOCOLO ANOCHECER
+                   alias: NIGHTFALL
+  CIBERWARE ...... CIBERWARE
+  MATRIZ ......... MATRIZ CUÁNTICA
+  FTL ............ IMPULSO FTL
+
+--------------------------------------------------------------------
+  ANOMALIAS   ->  ANOMALIAS   (3)
+--------------------------------------------------------------------
+  REF001 ......... EXPEDIENTE REF-001-VANCE-M
+  REF002 ......... EXPEDIENTE REF-002-THORNE-K
+  BALIZA ......... BALIZA CUÁNTICA
+
+--------------------------------------------------------------------
+  OTROS TEMAS — NIVELES DE INFORMACION   ->  OTROS   (10)
+--------------------------------------------------------------------
+  CABEZAHIERRO ... BANDA CABEZA DE HIERRO
+  CARRONEROS ..... GREMIO DE CARROÑEROS
+  SOLAPEX ........ DIRECTORADO SOL-APEX
+                   alias: SOLAPEXDIRECTORATE, DIRECTORADO
+  OBSIDIANA ...... EL FRENTE OBSIDIANA
+                   alias: OBSIDIANFRONT, FRENTE
+  BYTENEGRO ...... SINDICATO BYTE-NEGRO
+                   alias: BLACKBYTE, SINDICATO
+  DYNAMICS ....... AETHERIS DYNAMICS
+                   alias: AETHERISDYNAMICS
+  NIVEL1 ......... NIVEL 1 — RUMORES DE CALLE
+  NIVEL2 ......... NIVEL 2 — REGISTROS CIFRADOS
+  NIVEL3 ......... NIVEL 3 — ARCHIVOS CLASIFICADOS
+  NIVEL4 ......... NIVEL 4 — ARCHIVO DE SITIO NEGRO
+
+--------------------------------------------------------------------
+  OBJETIVO EN PANTALLA DE INICIO
+--------------------------------------------------------------------
+  Al desbloquear una entrada de MISIONES, su nombre pasa a ser el
+  objetivo actual en Inicio. La ultima mision desbloqueada manda.
+  Para arrancar la campaña, da al jugador el codigo:  V3R5R4E
+
+--------------------------------------------------------------------
+  CONEXIONES OCULTAS  (8)
+--------------------------------------------------------------------
+  Con todos los codigos de la izquierda, la entrada de la derecha
+  se desbloquea sola ("NUEVA CONEXION ENCONTRADA").
+
+  VANCE + EGIDA                  ==>  REF001
+  KAELEN + OBSIDIANA             ==>  REF002
+  EGIDA + JANO                   ==>  JULIAN
+  ARIS + JANO                    ==>  MATRIZ
+  EGIDA + CHARON                 ==>  BALIZA
+  REF001 + REF002                ==>  ESPEJO
+  NODOECO + LOTO                 ==>  ECO3
+  ARCHON + CATEDRAL              ==>  CISMA
+
+--------------------------------------------------------------------
+  TRANSACCIONES  (Inicio > saldo > DIRECCION DE TRANSACCION)
+--------------------------------------------------------------------
+  Abonos
+  TX1500A       +1500 ¢
+  TX3000B       +3000 ¢
+  TX2000C       +2000 ¢
+  TX4000D       +4000 ¢
+  TX5000E       +5000 ¢
+  TX4500F       +4500 ¢
+  TX7000G       +7000 ¢
+  TX8000H       +8000 ¢
+  TX10000J      +10.000 ¢
+  TX12000K      +12.000 ¢
+  TX3500L       +3500 ¢
+  TX6000M       +6000 ¢
+  TX5500N       +5500 ¢
+  TX7500P       +7500 ¢
+  TX9000Q       +9000 ¢
+  TX6500R       +6500 ¢
+  TX8500S       +8500 ¢
+  TX15000T      +15.000 ¢
+  TX20000V      +20.000 ¢
+  TX250W        +250 ¢
+  TX750X        +750 ¢
+
+  Cargos (el saldo puede quedar en negativo y se muestra en rojo)
+  CG500A        -500 ¢
+  CG1200B       -1200 ¢
+  CG2500C       -2500 ¢
+  CG5000D       -5000 ¢
+  CG9000E       -9000 ¢
+  CG150F        -150 ¢
+  CG3000G       -3000 ¢
+
+--------------------------------------------------------------------
+  MAPA — ORBITALES OCULTOS
+--------------------------------------------------------------------
+  Cada objeto en orbita solo aparece en el mapa cuando el jugador
+  desbloquea la entrada indicada. Mientras siga sin leer, el mapa
+  muestra un "!" palpitante sobre su planeta, y al enfocar el
+  planeta el "!" salta al objeto concreto.
+
+  CHARON-9                     requiere  CHARON
+  PLATAFORMA GAMMA             requiere  BRUNO
+  RELE CIUDADELA-1             requiere  CIUDADELA
+  IMPERATOR                    requiere  HELENA
+  DEPOSITO TERMICO 4           requiere  DYNAMICS
+  PRISION FLOTANTE CINABRIO    requiere  SOLAPEX
+  ARCHIVO ARES                 requiere  SECTOR2
+  COSECHADORA HELIO-7          requiere  DYNAMICS
+  OJO DE GALILEO               requiere  STERLING
+  DRAGA DE ANILLOS 12          requiere  CARRONEROS
+  RELE CASSINI                 requiere  ZEROCOOL
+  FARO FRONTERA                requiere  MERCER
+  OBSERVATORIO VACIO           requiere  LINUS
+  BOYA NULA                    requiere  BALIZA
+
+  SIMBOLOS DEL MAPA
+    circulo ... planeta o luna     triangulo ... estacion orbital
+    rombo ..... repetidor          rectangulo ... observatorio
+    cruz ...... boya de datos      cuña ......... nave insignia
+
+--------------------------------------------------------------------
+  CODIGOS DE INVENTARIO  (INV.)
+--------------------------------------------------------------------
+  00X1539ZA726 ..... LLAVE DE SERVICIO
+  00X0026BA56 ...... CELDA DE CARGA
+
+--------------------------------------------------------------------
+  IDs DE INTRUSION  (HACK)
+--------------------------------------------------------------------
+  El ultimo par DIGITO+LETRA fija la dificultad: digito 0-9 = nivel,
+  letra A-D=+0, E-H=+1, I-L=+2, M-P=+3, Q-T=+4, U-Z=+5.
+
+  00X0026BA56 ...... facil         (2B)
+  00X1177FC31 ...... medio         (7F)
+  00X1539ZA726 ..... muy dificil   (9Z)
+  0 ................ minimo, para probar
+
+  COMANDOS: ayuda / escanear / conectar <ip> / sondear /
+  forzar <puerto> / ls / cd <dir> / leer <fichero> / acceso <clave> / salir
+  La clave esta en un fichero aleatorio de los subdirectorios.
+
+--------------------------------------------------------------------
+  CLAVE DE ANULACION DE BLOQUEO
+--------------------------------------------------------------------
+  ANULAR7      (editable en el panel de ajustes)
+
+--------------------------------------------------------------------
+  REINICIAR
+--------------------------------------------------------------------
+    Escribe GOODBYEWORLD en el Compendio (ver BORRAR PROGRESO).
+
+====================================================================
+  ENTRADAS: 177   ·   CONEXIONES: 8   ·   TRANSACCIONES: 28
+====================================================================
+--------------------------------------------------------------------
+  MODO DIRECTOR
+--------------------------------------------------------------------
+  MAXIMUS en el Compendio -> Inicio pasa a consola de director:
+  generador de IDs de intrusion (nivel 1-10), generador de
+  direcciones de transaccion, REINICIAR REGISTRO (vuelve al modo
+  normal) e indice completo de codigos.
+
+  DIRECCIONES GENERADAS:  T + 3 digitos + 5 caracteres + control
+  Cada una es distinta aunque sea la misma cantidad. Funcionan
+  sin conexion: el terminal descifra la cantidad de la propia
+  direccion. Solo pueden generarse en miles.
+
+  IDs DE INTRUSION:  00X + 4 digitos + DIGITO + LETRA + letra + 2 digitos
+  El par DIGITO+LETRA fija el nivel (digito + grupo de letra).
+
+--------------------------------------------------------------------
+  BORRAR PROGRESO
+--------------------------------------------------------------------
+  GOODBYEWORLD en el Compendio borra entradas, saldo, objetivo,
+  salud, historia y modo director. Conserva nombre e inventario.
+  GOODBYEWORLD1 lo borra TODO (nombre e inventario incluidos) y
+  relanza el sitio desde el arranque, pidiendo el nombre otra vez.
+  Los montos del generador se acumulan; [ x ] RESET vuelve a 0.
+
+--------------------------------------------------------------------
+  GENERADOR DE OBJETOS  (modo director: MAXIMUS > Inicio)
+--------------------------------------------------------------------
+  Elige categoria y objeto, pulsa [+ MODIFICAR] para cambiar valores
+  con el teclado numerico, y [GENERAR CODIGO]. El jugador lo escribe
+  en INV. Cada codigo es unico aunque sea el mismo objeto; incluye los
+  modificadores y se verifica sin conexion.
+  Los IMPLANTES en el inventario restan HUMANIDAD (de 100). Al bajar,
+  el electrocardiograma pasa de naranja a verde y a un trazo robotico.
+  Catalogo: 230 objetos (armas, municion, blindaje, equipo, implantes, programas).
+
+--------------------------------------------------------------------
+  HOJA DE PERSONAJE
+--------------------------------------------------------------------
+  Tras el nombre se pide la CLAVE DE ACCESO (atributos).
+  CLAVE DE PRUEBA ....... 533KYAM1DQ3HTFM
+    INT 6 / REF 7 / DES 6 / TEC 5 / TMP 7
+    VOL 6 / SUE 6 / MOV 6 / CUE 7 / EMP 6   (total 62)
+  Modo director > dm.clave --atributos: introduce los valores tirados
+  y genera la clave. dm.habilidad --nivel genera codigos de habilidad
+  (con coste en PM). Ambos se escriben en INV. y se reflejan en Inicio.
+  Implantes: INSTALAR en el inventario los coloca en su ranura de
+  ciberware y resta humanidad. EMP efectiva = HUMANIDAD / 10.
+  Armadura equipada aplica su penalizacion a REF, DES y MOV.
+  GOODBYEWORLD conserva atributos, habilidades e implantes.
+  GOODBYEWORLD1 lo borra todo.
+
+--------------------------------------------------------------------
+  FICHAS QUE CAMBIAN CON LA HISTORIA
+--------------------------------------------------------------------
+  Las fichas muestran solo lo que el escuadron sabe o cree. Se
+  actualizan (y vuelven a marcarse con !) al completar la mision:
+  una mision cuenta como completada al pulsar COMPLETADO en su canal
+  o al registrar cualquier mision posterior.
+  M25  TOBY fallece / SAFFRON desaparecido / KAELEN revelado traidor
+  M26  SKARSGARD fallece
+  M32  MERCER deserta a la coalicion
+  M34  HELENA CROSS deserta
+  M35  DEACON: refugiados ocultos revelados
+  M39  VOLKOV: financiacion de Reed revelada
+  M40  LYRA revelada hija de Vance (VANCE, JULIAN, SELENE completos)
+       ARIS capturado / IRIS deserta
+  M43  CROFT deserta
+  M44  SAFFRON reaparece vivo
+  M47  CAELUM revelado clon / CORVUS: pagador revelado
+  M49  JAXSON fallece
+  Armas cuerpo a cuerpo añadidas al generador (categoria ARMAS).
