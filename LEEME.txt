@@ -1,7 +1,0 @@
-SUBIR A GITHUB PAGES
-1. github.com > New repository (p.ej. "terminal-aetheris"), publico.
-2. Add file > Upload files > arrastra TODO el contenido de esta carpeta.
-3. Settings > Pages > Source: "Deploy from a branch", rama main, carpeta / (root) > Save.
-4. En 1-2 min: https://TU-USUARIO.github.io/terminal-aetheris/
-5. En el movil: abrir el enlace > Android: menu > "Instalar app" / iPhone: Compartir > "Añadir a pantalla de inicio".
-Para actualizar: sube el nuevo index.html encima del anterior.
