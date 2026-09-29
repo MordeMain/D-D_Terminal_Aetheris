@@ -1,0 +1,6 @@
+SUBIR A GITHUB PAGES
+1. En el repo "terminal-aetheris": Add file > Upload files > arrastra TODO el contenido de esta carpeta.
+2. Borra pc.html del repo si sigue ahi (ya no se usa).
+3. Settings > Pages > Source: "Deploy from a branch", rama main, carpeta / (root) > Save.
+4. En 1-2 min: https://TU-USUARIO.github.io/terminal-aetheris/
+Para actualizar: sube el nuevo index.html y sw.js encima de los anteriores.
